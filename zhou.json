@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "联想电脑内部专用2024",
+      "name": "联想电脑内部专用国外服务器",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
